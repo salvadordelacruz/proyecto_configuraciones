@@ -1,0 +1,13 @@
+name: analisis_py
+channels:
+  - defaults
+dependencies:
+  - python=3.11.7
+  - pandas
+  - matplotlib
+  - scipy
+  - simpy
+  - tensorflow
+  - seaborn
+  - jupyterthemes
+
